@@ -104,13 +104,14 @@ def process_file(input_file, output_file, threads, no_others, retries):
     # 多线程检测
     results = []
     total_removed = 0
+    print("正在进行并发检测，请稍候...") # 只打印这一行，然后保持静默
     with ThreadPoolExecutor(max_workers=threads) as executor:
         futures = [executor.submit(validate_block_indexed, b, retries) for b in blocks]
         for count, future in enumerate(futures, 1):
             idx, block, removed_count = future.result()
             results.append((idx, block))
             total_removed += removed_count
-            print(f"检测进度: {count}/{len(blocks)}", end='\r')
+            # print(f"检测进度: {count}/{len(blocks)}", end='\r')
 
     # 保持原序
     results.sort(key=lambda x: x[0])
