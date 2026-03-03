@@ -8,7 +8,6 @@ http://183.184.48.46:9003/hls/1/index.m3u8
 http://183.184.48.4:9003/hls/1/index.m3u8
 http://183.184.49.218:9003/hls/1/index.m3u8
 http://183.184.50.206:9003/hls/1/index.m3u8
-http://183.184.63.183:9003/hls/1/index.m3u8
 http://183.185.151.125:9003/hls/1/index.m3u8
 http://183.185.151.236:9003/hls/1/index.m3u8
 http://183.191.122.138:9003/hls/1/index.m3u8
@@ -22,7 +21,6 @@ http://183.184.48.46:9003/hls/2/index.m3u8
 http://183.184.48.4:9003/hls/2/index.m3u8
 http://183.184.49.218:9003/hls/2/index.m3u8
 http://183.184.50.206:9003/hls/2/index.m3u8
-http://183.184.63.183:9003/hls/2/index.m3u8
 http://183.185.151.125:9003/hls/2/index.m3u8
 http://183.185.151.236:9003/hls/2/index.m3u8
 http://183.191.122.138:9003/hls/2/index.m3u8
@@ -36,7 +34,6 @@ http://183.184.48.46:9003/hls/3/index.m3u8
 http://183.184.48.4:9003/hls/3/index.m3u8
 http://183.184.49.218:9003/hls/3/index.m3u8
 http://183.184.50.206:9003/hls/3/index.m3u8
-http://183.184.63.183:9003/hls/3/index.m3u8
 http://183.185.151.125:9003/hls/3/index.m3u8
 http://183.185.151.236:9003/hls/3/index.m3u8
 http://183.191.122.138:9003/hls/3/index.m3u8
@@ -51,7 +48,6 @@ http://183.184.48.46:9003/hls/4/index.m3u8
 http://183.184.48.4:9003/hls/4/index.m3u8
 http://183.184.49.218:9003/hls/4/index.m3u8
 http://183.184.50.206:9003/hls/4/index.m3u8
-http://183.184.63.183:9003/hls/4/index.m3u8
 http://183.185.151.125:9003/hls/4/index.m3u8
 http://183.185.151.236:9003/hls/4/index.m3u8
 http://183.191.122.138:9003/hls/4/index.m3u8
@@ -65,7 +61,6 @@ http://183.184.48.46:9003/hls/5/index.m3u8
 http://183.184.48.4:9003/hls/5/index.m3u8
 http://183.184.49.218:9003/hls/5/index.m3u8
 http://183.184.50.206:9003/hls/5/index.m3u8
-http://183.184.63.183:9003/hls/5/index.m3u8
 http://183.185.151.125:9003/hls/5/index.m3u8
 http://183.185.151.236:9003/hls/5/index.m3u8
 http://183.191.122.138:9003/hls/5/index.m3u8
@@ -79,7 +74,6 @@ http://183.184.48.46:9003/hls/6/index.m3u8
 http://183.184.48.4:9003/hls/6/index.m3u8
 http://183.184.49.218:9003/hls/6/index.m3u8
 http://183.184.50.206:9003/hls/6/index.m3u8
-http://183.184.63.183:9003/hls/6/index.m3u8
 http://183.185.151.125:9003/hls/6/index.m3u8
 http://183.185.151.236:9003/hls/6/index.m3u8
 http://183.191.122.138:9003/hls/6/index.m3u8
@@ -93,7 +87,6 @@ http://183.184.48.46:9003/hls/7/index.m3u8
 http://183.184.48.4:9003/hls/7/index.m3u8
 http://183.184.49.218:9003/hls/7/index.m3u8
 http://183.184.50.206:9003/hls/7/index.m3u8
-http://183.184.63.183:9003/hls/7/index.m3u8
 http://183.185.151.125:9003/hls/7/index.m3u8
 http://183.185.151.236:9003/hls/7/index.m3u8
 http://183.191.122.138:9003/hls/7/index.m3u8
@@ -107,7 +100,6 @@ http://183.184.48.46:9003/hls/8/index.m3u8
 http://183.184.48.4:9003/hls/8/index.m3u8
 http://183.184.49.218:9003/hls/8/index.m3u8
 http://183.184.50.206:9003/hls/8/index.m3u8
-http://183.184.63.183:9003/hls/8/index.m3u8
 http://183.185.151.125:9003/hls/8/index.m3u8
 http://183.185.151.236:9003/hls/8/index.m3u8
 http://183.191.122.138:9003/hls/8/index.m3u8
@@ -121,7 +113,6 @@ http://183.184.48.46:9003/hls/9/index.m3u8
 http://183.184.48.4:9003/hls/9/index.m3u8
 http://183.184.49.218:9003/hls/9/index.m3u8
 http://183.184.50.206:9003/hls/9/index.m3u8
-http://183.184.63.183:9003/hls/9/index.m3u8
 http://183.185.151.125:9003/hls/9/index.m3u8
 http://183.185.151.236:9003/hls/9/index.m3u8
 http://183.191.122.138:9003/hls/9/index.m3u8
@@ -129,13 +120,11 @@ http://183.191.125.99:9003/hls/9/index.m3u8
 http://183.191.51.41:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" group-title="央视",CCTV9
 http://124.93.18.239:9003/hls/9/index.m3u8
-http://183.184.48.168:9003/hls/10/index.m3u8
 http://183.184.48.176:9003/hls/10/index.m3u8
 http://183.184.48.46:9003/hls/10/index.m3u8
 http://183.184.48.4:9003/hls/10/index.m3u8
 http://183.184.49.218:9003/hls/10/index.m3u8
 http://183.184.50.206:9003/hls/10/index.m3u8
-http://183.184.63.183:9003/hls/10/index.m3u8
 http://183.185.151.125:9003/hls/10/index.m3u8
 http://183.185.151.236:9003/hls/10/index.m3u8
 http://183.191.122.138:9003/hls/10/index.m3u8
@@ -146,12 +135,8 @@ http://124.93.18.239:9003/hls/10/index.m3u8
 http://183.184.48.168:9003/hls/11/index.m3u8
 http://183.184.48.176:9003/hls/11/index.m3u8
 http://183.184.48.46:9003/hls/11/index.m3u8
-http://183.184.48.4:9003/hls/11/index.m3u8
 http://183.184.49.218:9003/hls/11/index.m3u8
-http://183.184.50.206:9003/hls/11/index.m3u8
-http://183.184.63.183:9003/hls/11/index.m3u8
 http://183.185.151.125:9003/hls/11/index.m3u8
-http://183.185.151.236:9003/hls/11/index.m3u8
 http://183.191.122.138:9003/hls/11/index.m3u8
 http://183.191.125.99:9003/hls/11/index.m3u8
 http://183.191.51.41:9003/hls/11/index.m3u8
@@ -163,7 +148,6 @@ http://183.184.48.46:9003/hls/12/index.m3u8
 http://183.184.48.4:9003/hls/12/index.m3u8
 http://183.184.49.218:9003/hls/12/index.m3u8
 http://183.184.50.206:9003/hls/12/index.m3u8
-http://183.184.63.183:9003/hls/12/index.m3u8
 http://183.185.151.125:9003/hls/12/index.m3u8
 http://183.185.151.236:9003/hls/12/index.m3u8
 http://183.191.122.138:9003/hls/12/index.m3u8
@@ -172,12 +156,10 @@ http://183.191.51.41:9003/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" group-title="央视",CCTV12
 http://124.93.18.239:9003/hls/12/index.m3u8
 http://183.184.48.168:9003/hls/13/index.m3u8
-http://183.184.48.176:9003/hls/13/index.m3u8
 http://183.184.48.46:9003/hls/13/index.m3u8
 http://183.184.48.4:9003/hls/13/index.m3u8
 http://183.184.49.218:9003/hls/13/index.m3u8
 http://183.184.50.206:9003/hls/13/index.m3u8
-http://183.184.63.183:9003/hls/13/index.m3u8
 http://183.185.151.125:9003/hls/13/index.m3u8
 http://183.185.151.236:9003/hls/13/index.m3u8
 http://183.191.122.138:9003/hls/13/index.m3u8
@@ -191,7 +173,6 @@ http://183.184.48.46:9003/hls/14/index.m3u8
 http://183.184.48.4:9003/hls/14/index.m3u8
 http://183.184.49.218:9003/hls/14/index.m3u8
 http://183.184.50.206:9003/hls/14/index.m3u8
-http://183.184.63.183:9003/hls/14/index.m3u8
 http://183.185.151.125:9003/hls/14/index.m3u8
 http://183.185.151.236:9003/hls/14/index.m3u8
 http://183.191.122.138:9003/hls/14/index.m3u8
@@ -204,8 +185,6 @@ http://183.184.48.176:9003/hls/15/index.m3u8
 http://183.184.48.46:9003/hls/15/index.m3u8
 http://183.184.48.4:9003/hls/15/index.m3u8
 http://183.184.49.218:9003/hls/15/index.m3u8
-http://183.184.50.206:9003/hls/15/index.m3u8
-http://183.184.63.183:9003/hls/15/index.m3u8
 http://183.185.151.125:9003/hls/15/index.m3u8
 http://183.185.151.236:9003/hls/15/index.m3u8
 http://183.191.122.138:9003/hls/15/index.m3u8
@@ -219,7 +198,6 @@ http://183.184.48.46:9003/hls/16/index.m3u8
 http://183.184.48.4:9003/hls/16/index.m3u8
 http://183.184.49.218:9003/hls/16/index.m3u8
 http://183.184.50.206:9003/hls/16/index.m3u8
-http://183.184.63.183:9003/hls/16/index.m3u8
 http://183.185.151.125:9003/hls/16/index.m3u8
 http://183.185.151.236:9003/hls/16/index.m3u8
 http://183.191.122.138:9003/hls/16/index.m3u8
@@ -230,7 +208,6 @@ http://124.93.18.239:9003/hls/16/index.m3u8
 http://183.184.48.168:9003/hls/17/index.m3u8
 http://183.184.48.176:9003/hls/17/index.m3u8
 http://183.184.48.46:9003/hls/17/index.m3u8
-http://183.184.48.4:9003/hls/17/index.m3u8
 http://183.184.49.218:9003/hls/17/index.m3u8
 http://183.184.50.206:9003/hls/17/index.m3u8
 http://183.185.151.125:9003/hls/17/index.m3u8
@@ -260,7 +237,6 @@ http://124.93.18.239:9003/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视
 http://183.184.48.168:9003/hls/23/index.m3u8
 http://183.184.48.176:9003/hls/23/index.m3u8
-http://183.184.48.46:9003/hls/23/index.m3u8
 http://183.184.48.4:9003/hls/23/index.m3u8
 http://183.184.49.218:9003/hls/23/index.m3u8
 http://183.184.50.206:9003/hls/23/index.m3u8
@@ -280,7 +256,6 @@ http://183.184.48.46:9003/hls/38/index.m3u8
 http://183.184.48.4:9003/hls/38/index.m3u8
 http://183.184.49.218:9003/hls/38/index.m3u8
 http://183.184.50.206:9003/hls/38/index.m3u8
-http://183.184.63.183:9003/hls/38/index.m3u8
 http://183.185.151.125:9003/hls/38/index.m3u8
 http://183.185.151.236:9003/hls/38/index.m3u8
 http://183.191.122.138:9003/hls/38/index.m3u8
@@ -293,7 +268,6 @@ http://124.93.18.239:9003/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视
 http://124.93.18.239:9003/hls/23/index.m3u8
 http://183.184.48.168:9003/hls/20/index.m3u8
-http://183.184.48.176:9003/hls/20/index.m3u8
 http://183.184.48.46:9003/hls/20/index.m3u8
 http://183.184.48.4:9003/hls/20/index.m3u8
 http://183.184.49.218:9003/hls/20/index.m3u8
@@ -309,11 +283,9 @@ http://124.93.18.239:9003/hls/55/index.m3u8
 http://124.93.18.239:9003/hls/49/index.m3u8
 http://183.184.48.168:9003/hls/34/index.m3u8
 http://183.184.48.176:9003/hls/34/index.m3u8
-http://183.184.48.46:9003/hls/34/index.m3u8
 http://183.184.48.4:9003/hls/34/index.m3u8
 http://183.184.49.218:9003/hls/34/index.m3u8
 http://183.184.50.206:9003/hls/34/index.m3u8
-http://183.184.63.183:9003/hls/34/index.m3u8
 http://183.185.151.125:9003/hls/34/index.m3u8
 http://183.185.151.236:9003/hls/34/index.m3u8
 http://183.191.122.138:9003/hls/34/index.m3u8
@@ -331,8 +303,6 @@ http://183.184.48.168:9003/hls/39/index.m3u8
 http://183.184.48.176:9003/hls/39/index.m3u8
 http://183.184.48.46:9003/hls/39/index.m3u8
 http://183.184.48.4:9003/hls/39/index.m3u8
-http://183.184.49.218:9003/hls/39/index.m3u8
-http://183.184.50.206:9003/hls/39/index.m3u8
 http://183.185.151.125:9003/hls/39/index.m3u8
 http://183.185.151.236:9003/hls/39/index.m3u8
 http://183.191.122.138:9003/hls/39/index.m3u8
@@ -342,7 +312,6 @@ http://183.191.51.41:9003/hls/39/index.m3u8
 http://124.93.18.239:9003/hls/31/index.m3u8
 http://183.184.48.168:9003/hls/21/index.m3u8
 http://183.184.48.176:9003/hls/21/index.m3u8
-http://183.184.48.46:9003/hls/21/index.m3u8
 http://183.184.48.4:9003/hls/21/index.m3u8
 http://183.184.49.218:9003/hls/21/index.m3u8
 http://183.184.50.206:9003/hls/21/index.m3u8
@@ -358,8 +327,6 @@ http://183.191.51.41:9003/hls/41/index.m3u8
 http://124.93.18.239:9003/hls/35/index.m3u8
 http://183.184.48.168:9003/hls/19/index.m3u8
 http://183.184.48.176:9003/hls/19/index.m3u8
-http://183.184.48.46:9003/hls/19/index.m3u8
-http://183.184.48.4:9003/hls/19/index.m3u8
 http://183.184.49.218:9003/hls/19/index.m3u8
 http://183.184.50.206:9003/hls/19/index.m3u8
 http://183.185.151.125:9003/hls/19/index.m3u8
@@ -375,7 +342,6 @@ http://183.184.48.46:9003/hls/26/index.m3u8
 http://183.184.48.4:9003/hls/26/index.m3u8
 http://183.184.49.218:9003/hls/26/index.m3u8
 http://183.184.50.206:9003/hls/26/index.m3u8
-http://183.184.63.183:9003/hls/26/index.m3u8
 http://183.185.151.125:9003/hls/26/index.m3u8
 http://183.185.151.236:9003/hls/26/index.m3u8
 http://183.191.122.138:9003/hls/26/index.m3u8
@@ -383,13 +349,11 @@ http://183.191.125.99:9003/hls/26/index.m3u8
 http://183.191.51.41:9003/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视
 http://124.93.18.239:9003/hls/37/index.m3u8
-http://183.184.48.168:9003/hls/27/index.m3u8
 http://183.184.48.176:9003/hls/27/index.m3u8
 http://183.184.48.46:9003/hls/27/index.m3u8
 http://183.184.48.4:9003/hls/27/index.m3u8
 http://183.184.49.218:9003/hls/27/index.m3u8
 http://183.184.50.206:9003/hls/27/index.m3u8
-http://183.184.63.183:9003/hls/27/index.m3u8
 http://183.185.151.125:9003/hls/27/index.m3u8
 http://183.185.151.236:9003/hls/27/index.m3u8
 http://183.191.122.138:9003/hls/27/index.m3u8
@@ -407,7 +371,6 @@ http://183.184.48.46:9003/hls/35/index.m3u8
 http://183.184.48.4:9003/hls/35/index.m3u8
 http://183.184.49.218:9003/hls/35/index.m3u8
 http://183.184.50.206:9003/hls/35/index.m3u8
-http://183.184.63.183:9003/hls/35/index.m3u8
 http://183.185.151.125:9003/hls/35/index.m3u8
 http://183.185.151.236:9003/hls/35/index.m3u8
 http://183.191.122.138:9003/hls/35/index.m3u8
@@ -421,7 +384,6 @@ http://183.184.48.46:9003/hls/36/index.m3u8
 http://183.184.48.4:9003/hls/36/index.m3u8
 http://183.184.49.218:9003/hls/36/index.m3u8
 http://183.184.50.206:9003/hls/36/index.m3u8
-http://183.184.63.183:9003/hls/36/index.m3u8
 http://183.185.151.125:9003/hls/36/index.m3u8
 http://183.185.151.236:9003/hls/36/index.m3u8
 http://183.191.122.138:9003/hls/36/index.m3u8
@@ -435,7 +397,6 @@ http://183.184.48.46:9003/hls/29/index.m3u8
 http://183.184.48.4:9003/hls/29/index.m3u8
 http://183.184.49.218:9003/hls/29/index.m3u8
 http://183.184.50.206:9003/hls/29/index.m3u8
-http://183.184.63.183:9003/hls/29/index.m3u8
 http://183.185.151.125:9003/hls/29/index.m3u8
 http://183.185.151.236:9003/hls/29/index.m3u8
 http://183.191.122.138:9003/hls/29/index.m3u8
@@ -449,9 +410,9 @@ http://183.184.48.46:9003/hls/30/index.m3u8
 http://183.184.48.4:9003/hls/30/index.m3u8
 http://183.184.49.218:9003/hls/30/index.m3u8
 http://183.184.50.206:9003/hls/30/index.m3u8
-http://183.184.63.183:9003/hls/30/index.m3u8
 http://183.185.151.125:9003/hls/30/index.m3u8
 http://183.185.151.236:9003/hls/30/index.m3u8
+http://183.191.122.138:9003/hls/30/index.m3u8
 http://183.191.125.99:9003/hls/30/index.m3u8
 http://183.191.51.41:9003/hls/30/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
@@ -462,8 +423,8 @@ http://183.184.48.168:9003/hls/28/index.m3u8
 http://183.184.48.176:9003/hls/28/index.m3u8
 http://183.184.48.46:9003/hls/28/index.m3u8
 http://183.184.48.4:9003/hls/28/index.m3u8
+http://183.184.49.218:9003/hls/28/index.m3u8
 http://183.184.50.206:9003/hls/28/index.m3u8
-http://183.184.63.183:9003/hls/28/index.m3u8
 http://183.185.151.125:9003/hls/28/index.m3u8
 http://183.185.151.236:9003/hls/28/index.m3u8
 http://183.191.122.138:9003/hls/28/index.m3u8
@@ -474,13 +435,11 @@ http://124.93.18.239:9003/hls/54/index.m3u8
 http://183.191.51.41:9003/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://124.93.18.239:9003/hls/38/index.m3u8
-http://183.184.48.168:9003/hls/32/index.m3u8
 http://183.184.48.176:9003/hls/32/index.m3u8
 http://183.184.48.46:9003/hls/32/index.m3u8
 http://183.184.48.4:9003/hls/32/index.m3u8
 http://183.184.49.218:9003/hls/32/index.m3u8
 http://183.184.50.206:9003/hls/32/index.m3u8
-http://183.184.63.183:9003/hls/32/index.m3u8
 http://183.185.151.125:9003/hls/32/index.m3u8
 http://183.185.151.236:9003/hls/32/index.m3u8
 http://183.191.122.138:9003/hls/32/index.m3u8
@@ -494,7 +453,6 @@ http://183.184.48.46:9003/hls/33/index.m3u8
 http://183.184.48.4:9003/hls/33/index.m3u8
 http://183.184.49.218:9003/hls/33/index.m3u8
 http://183.184.50.206:9003/hls/33/index.m3u8
-http://183.184.63.183:9003/hls/33/index.m3u8
 http://183.185.151.125:9003/hls/33/index.m3u8
 http://183.185.151.236:9003/hls/33/index.m3u8
 http://183.191.122.138:9003/hls/33/index.m3u8
@@ -508,21 +466,16 @@ http://183.184.48.46:9003/hls/25/index.m3u8
 http://183.184.48.4:9003/hls/25/index.m3u8
 http://183.184.49.218:9003/hls/25/index.m3u8
 http://183.184.50.206:9003/hls/25/index.m3u8
-http://183.184.63.183:9003/hls/25/index.m3u8
 http://183.185.151.125:9003/hls/25/index.m3u8
 http://183.185.151.236:9003/hls/25/index.m3u8
 http://183.191.122.138:9003/hls/25/index.m3u8
-http://183.191.125.99:9003/hls/25/index.m3u8
 http://183.191.51.41:9003/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="福建卫视" group-title="卫视",福建卫视
-http://183.184.48.168:9003/hls/24/index.m3u8
 http://183.184.48.176:9003/hls/24/index.m3u8
 http://183.184.48.46:9003/hls/24/index.m3u8
 http://183.184.48.4:9003/hls/24/index.m3u8
 http://183.184.49.218:9003/hls/24/index.m3u8
 http://183.184.50.206:9003/hls/24/index.m3u8
-http://183.185.151.125:9003/hls/24/index.m3u8
-http://183.185.151.236:9003/hls/24/index.m3u8
 http://183.191.122.138:9003/hls/24/index.m3u8
 http://183.191.125.99:9003/hls/24/index.m3u8
 http://183.191.51.41:9003/hls/24/index.m3u8
@@ -540,7 +493,6 @@ http://183.184.48.46:9003/hls/37/index.m3u8
 http://183.184.48.4:9003/hls/37/index.m3u8
 http://183.184.49.218:9003/hls/37/index.m3u8
 http://183.184.50.206:9003/hls/37/index.m3u8
-http://183.184.63.183:9003/hls/37/index.m3u8
 http://183.185.151.125:9003/hls/37/index.m3u8
 http://183.185.151.236:9003/hls/37/index.m3u8
 http://183.191.122.138:9003/hls/37/index.m3u8
@@ -569,7 +521,6 @@ http://183.184.48.46:9003/hls/40/index.m3u8
 http://183.184.48.4:9003/hls/40/index.m3u8
 http://183.184.49.218:9003/hls/40/index.m3u8
 http://183.184.50.206:9003/hls/40/index.m3u8
-http://183.184.63.183:9003/hls/40/index.m3u8
 http://183.185.151.125:9003/hls/40/index.m3u8
 http://183.185.151.236:9003/hls/40/index.m3u8
 http://183.191.122.138:9003/hls/40/index.m3u8
@@ -583,7 +534,6 @@ http://183.184.48.46:9003/hls/31/index.m3u8
 http://183.184.48.4:9003/hls/31/index.m3u8
 http://183.184.49.218:9003/hls/31/index.m3u8
 http://183.184.50.206:9003/hls/31/index.m3u8
-http://183.184.63.183:9003/hls/31/index.m3u8
 http://183.185.151.125:9003/hls/31/index.m3u8
 http://183.185.151.236:9003/hls/31/index.m3u8
 http://183.191.122.138:9003/hls/31/index.m3u8
@@ -591,9 +541,7 @@ http://183.191.125.99:9003/hls/31/index.m3u8
 http://183.191.51.41:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" group-title="其他",风云足球
 http://183.184.48.168:9003/hls/42/index.m3u8
-http://183.184.48.176:9003/hls/42/index.m3u8
 http://183.184.49.218:9003/hls/42/index.m3u8
-http://183.184.50.206:9003/hls/42/index.m3u8
 http://183.185.151.125:9003/hls/42/index.m3u8
 http://183.185.151.236:9003/hls/42/index.m3u8
 #EXTINF:-1 tvg-name="上海" group-title="其他",上海
