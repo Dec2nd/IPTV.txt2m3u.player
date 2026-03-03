@@ -63,7 +63,7 @@ jobs:
       continue-on-error: true
       run: |
             #地址失效
-            wget https://httop.top/hotel.m3u -O hp.m3u  -t 2 --waitretry=5
+            wget https://httop.top/hotel.m3u -O hp.m3u  -t 2 --waitretry=5 -T 30
             python ./scripts/m3u_merger.py -i hp.m3u -o hp_merged.m3u
             python ./scripts/url_sortergr.py -i hp_merged.m3u -o hp_merged.m3u -gr '央视,卫视,其它' -gs
             
@@ -73,7 +73,7 @@ jobs:
       continue-on-error: true
       run: |
             #与httop同样输出httop.m3u,最多同时启用一个
-            wget http://120.27.21.75:20085/sub?biWVtPA3=txt -O htl.txt  -t 2 --waitretry=5
+            wget http://120.27.21.75:20085/sub?biWVtPA3=txt -O htl.txt  -t 2 --waitretry=5 -T 30
             node ./scripts/txt2m3u.js -i htl.txt -o htl.m3u
             python ./scripts/m3u_purifier.py -i htl.m3u -n -mt 10
             python ./scripts/m3u_merger.py -i htl.m3u -o htl_merged.m3u
@@ -144,7 +144,7 @@ jobs:
       continue-on-error: true
       run: |
             #无需频繁更新
-            wget http://www.lyyytv.cn/yt/zhibo/1.txt -O 1.txt -t 2 --waitretry=5
+            wget http://www.lyyytv.cn/yt/zhibo/1.txt -O 1.txt -t 2 --waitretry=5 -T 30
             node ./scripts/txt2m3u.js -i 1.txt -o 1.m3u
             python ./scripts/extract.py --input 1.m3u --output t2op.m3u --eoru ',lnott' -n
             python ./scripts/deduplicate.py -i t2op.m3u -o t2output.m3u
