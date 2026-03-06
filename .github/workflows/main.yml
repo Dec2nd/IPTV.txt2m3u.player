@@ -70,7 +70,7 @@ jobs:
             
     # --- hotel 源处理 ---
     - name: Process hotel Files
-      if: env.ONLY_UPDATE_MIGU != 'true'    
+      if: false # env.ONLY_UPDATE_MIGU != 'true'    
       continue-on-error: true
       run: |
             #与httop同样输出httop.m3u,最多同时启用一个
@@ -83,7 +83,7 @@ jobs:
 
     # --- hotel 源处理 2 ---
     - name: Process hotel Files 2
-      if: env.ONLY_UPDATE_MIGU != 'true'    
+      if: false # env.ONLY_UPDATE_MIGU != 'true'    
       continue-on-error: true
       run: |
             wget https://github.com/zhlshrimp/Hotel_m3u/raw/refs/heads/main/lt.txt -O hlt.txt -t 2 --waitretry=5
