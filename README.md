@@ -13,6 +13,12 @@ https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/ip
 ```
 https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/iptv_merged.m3u
 ```
+```
+https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/plutotv.m3u
+```
+```
+https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/rakutentv.m3u
+```
 
 > [源备份](https://github.com/ioptu/IPTV.txt2m3u.player/blob/main/backup) 
 ## Chrome扩展程序 
