@@ -36,7 +36,7 @@ jobs:
       if: env.ONLY_UPDATE_MIGU != 'true'    
       continue-on-error: true
       run: |
-        wget https://github.com/Afiq0/Pluto-TV-Playlists/raw/refs/heads/main/output/plutotv_us.m3u8 -O io.m3u  -t 2 --waitretry=5
+        wget https://github.com/Afiq0/Pluto-TV-Playlists/raw/refs/heads/main/output/plutotv_us.m3u8 -O plt.m3u  -t 2 --waitretry=5
         wget https://github.com/482349841209/rakuten-m3u-generator/raw/refs/heads/master/output/rakuten.m3u -O rkt.m3u  -t 2 --waitretry=5
 
     # ---  提交推送 (这个步骤不建议加 continue-on-error，因为它是最终目标) ---
@@ -53,7 +53,7 @@ jobs:
         [ -f ../mig_d.m3u ] && mv ../mig_d.m3u ./migu.m3u || echo "migu skip"
         
         if [ "$ONLY_UPDATE_MIGU" != "true" ]; then
-          [ -f ../io.m3u ] && mv ../io.m3u ./plutotv.m3u || true
+          [ -f ../plt.m3u ] && mv ../plt.m3u ./plutotv.m3u || true
           [ -f ../rkt.m3u ] && mv ../rkt.m3u ./rakutentv.m3u || true
         fi
 
