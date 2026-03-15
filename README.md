@@ -14,7 +14,7 @@ https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/pl
 https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/rakutentv.m3u
 ```
 
-> [源备份](https://github.com/ioptu/IPTV.txt2m3u.player/blob/main/backup) 
+
 ## Chrome扩展程序 
 ```
 https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/chrome%20extension/Flv.m3u8.player.zip
