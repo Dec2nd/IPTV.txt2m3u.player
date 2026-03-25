@@ -51,7 +51,7 @@ jobs:
 
         # 使用 [ -f ] 检查文件是否存在再移动，防止因前面某块失败导致文件缺失而报错退出
         [ -f ../mig_d.m3u ] && mv ../mig_d.m3u ./migu.m3u || echo "migu skip"
-        [ -f ../mig_dc.m3u ] && mv ../mig_dc.m3u ./cctv_migu.m3u || echo "cctv_migu skip"
+        [ -f ../mig_dc.m3u ] && mv ../mig_dc.m3u ./cctv.migu.m3u || echo "cctv.migu skip"
         
         if [ "$ONLY_UPDATE_MIGU" != "true" ]; then
           [ -f ../plt.m3u ] && mv ../plt.m3u ./plutotv.m3u || true
