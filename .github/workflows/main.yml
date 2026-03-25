@@ -30,7 +30,7 @@ jobs:
         python ./scripts/m3u_mergerng.py -i mig_d.m3u -o mig_d.m3u
         python ./scripts/m3u_merger.py -i mig_d.m3u -o mig_d.m3u
         python ./scripts/extract.py --input mig_d.m3u --output mig_dc.m3u --eoru '央视,' -n
-        python ./scripts/extract.py --input mig_dc.m3u --output mig_dc.m3u --eoru 'cgtn||洲,' -n -r
+        python ./scripts/extract.py --input mig_dc.m3u --output mig_dc.m3u --eoru 'CGTN||洲,' -n -r
         
     # --- pluto&rakuten 源处理  ---
     - name: Process pluto&rakuten Files
