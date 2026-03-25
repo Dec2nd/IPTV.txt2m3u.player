@@ -29,6 +29,7 @@ jobs:
         python ./scripts/deduplicate.py -i mig.m3u -o mig_d.m3u
         python ./scripts/m3u_mergerng.py -i mig_d.m3u -o mig_d.m3u
         python ./scripts/m3u_merger.py -i mig_d.m3u -o mig_d.m3u
+        python ./scripts/extract.py --input mig_d.m3u --output mig_dc.m3u --eoru '央视,' -n
         
     # --- pluto&rakuten 源处理  ---
     - name: Process pluto&rakuten Files
@@ -50,6 +51,7 @@ jobs:
 
         # 使用 [ -f ] 检查文件是否存在再移动，防止因前面某块失败导致文件缺失而报错退出
         [ -f ../mig_d.m3u ] && mv ../mig_d.m3u ./migu.m3u || echo "migu skip"
+        [ -f ../mig_dc.m3u ] && mv ../mig_dc.m3u ./cctv_migu.m3u || echo "cctv_migu skip"
         
         if [ "$ONLY_UPDATE_MIGU" != "true" ]; then
           [ -f ../plt.m3u ] && mv ../plt.m3u ./plutotv.m3u || true
