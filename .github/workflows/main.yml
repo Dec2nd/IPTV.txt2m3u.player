@@ -1,7 +1,7 @@
 name: M3u Fetch And Modify
 on: 
   schedule: 
-    - cron: 36 * * * *
+    - cron: 0 9,21 * * *
   workflow_dispatch:
   repository_dispatch: #允许外部触发,cf worker定时任务延迟在1分钟以内
     types: [tvcron]
@@ -23,6 +23,7 @@ jobs:
   
     # ---  Migu 处理---
     - name: Process Migu Files
+      if: false # 关闭
       continue-on-error: true     # 即使失败也会继续执行后续块 
       run: |
         python ./scripts/migu.py
